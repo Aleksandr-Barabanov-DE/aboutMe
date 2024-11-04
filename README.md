@@ -47,6 +47,7 @@ Motivated Web Developer with a Frontend Development Diploma from Yandex Practicu
   <img src="https://img.shields.io/badge/-KISS-FF6347?style=for-the-badge&logo=devicon&logoColor=white" alt="KISS"/>
   <img src="https://img.shields.io/badge/-YAGNI-4682B4?style=for-the-badge&logo=devicon&logoColor=white" alt="YAGNI"/>
 </p>
+
 ### Goals
 
 - **Short-term Goals**:
