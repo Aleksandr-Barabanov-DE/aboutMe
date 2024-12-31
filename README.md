@@ -93,7 +93,7 @@ I am a passionate Web Developer with hands-on experience in large-scale projects
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Barabanov-DE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Notable Projects
-- **[Yummy Search](https://github.com/Aleksandr-Barabanov-DE/crypto-tracker-API](https://github.com/Aleksandr-Barabanov-DE/Recipe-Search-API-)**: A recipe finder app allowing users to search recipes by ingredients, diet, cuisine, and intolerances. Features detailed recipe information and wine pairing suggestions.
+- **[Yummy Search](https://github.com/Aleksandr-Barabanov-DE/Recipe-Search-API-)**: A recipe finder app allowing users to search recipes by ingredients, diet, cuisine, and intolerances. Features detailed recipe information and wine pairing suggestions.
 Technologies: React, React Router, GSAP, Spoonacular API
   
 - **[Stellar Burgers](https://github.com/Aleksandr-Barabanov-DE/stellar-burgers)**: Created a fully functional burger ordering application using React and TypeScript to improve type safety and maintainability. This project employed Object-Oriented Programming (OOP) principles to develop reusable components and efficiently manage application state. Implemented a responsive design to ensure optimal user experience across various devices, complemented by smooth animations using GSAP. The modular architecture facilitated improved code readability and maintainability while integrating RESTful APIs for dynamic data handling.
