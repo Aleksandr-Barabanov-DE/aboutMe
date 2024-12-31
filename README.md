@@ -4,11 +4,11 @@
 <img src="https://github.com/Aleksandr-Barabanov-DE/AboutMe/blob/main/hero-section.jpg?raw=true" alt="Slogan: JS is Everywhere. Coding is a state of mind" width="1200"/>
 <h1>Hi there, I'm <a href="https://barabanov.codes/" target="_blank">Aleksandr Barabanov</a> 👋
  
-## Welcome to my GitHub profile! Here you can find my projects and contributions.
+## Welcome to my GitHub profile! Explore my projects, contributions, and ongoing development journey as a Frontend Developer.
 
 ## About Me
 
-Motivated Web Developer with a Frontend Development Diploma from Yandex Practicum. I have completed advanced courses in JavaScript, API integration, asynchronous programming, animations with GSAP, and design using Figma at Can She Code Inc. Currently, I am expanding my expertise in full-stack development by studying React, Redux, and Node.js in a dedicated course.
+I’m a passionate Web Developer with a professional diploma in Frontend Development from Yandex Practicum and advanced training in JavaScript, API integration, asynchronous programming, and UI/UX design at Can She Code Inc. Currently, I’m enhancing my skills in full-stack development, focusing on React, Redux, and Node.js. My goal is to create efficient, user-centric applications that combine performance and engaging design.
 
 ## Skills & Technologies
 
@@ -52,12 +52,11 @@ Motivated Web Developer with a Frontend Development Diploma from Yandex Practicu
 
 - **Short-term Goals**:
   - Become proficient in full-stack development with React and Node.js.
-  - Improve skills in **TypeScript** to build more scalable and maintainable applications.
-  - Complete a **Redux** course to handle more complex state management.
+  - Deepen skills in **TypeScript** to build more scalable and maintainable applications.
+  - Complete a Redux course to improve complex state management skills.
   - Contribute to open-source projects related to **UI/UX design** and **JavaScript frameworks**.
 
 - **Long-term Goals**:
-  - Transition into a full-stack developer role, specializing in **JavaScript** ecosystems.
   - Deepen expertise in **UI/UX animations** using **GSAP** and **Figma** to create more engaging user experiences.
   - Work on larger commercial projects that involve **API integration**, **real-time data processing**, and **high scalability**.
   - Continue contributing to **open-source** projects and expanding my network in the developer community.
@@ -71,6 +70,7 @@ Motivated Web Developer with a Frontend Development Diploma from Yandex Practicu
 - Implemented modern development practices like **unit testing** (Jest, Cypress), performance optimization with **Webpack**, and state management with **Redux**.
 - Optimized build processes with **Webpack**, reducing **page load time by 30%** and **bundle size by 25%**.
 - Optimized API interactions with **asynchronous JavaScript**, reducing **API response delays by 15%**.
+- Enhanced functionality with custom drag-and-drop features and interactive date range pickers.
 
 ### Web Developer and SEO Specialist, LLC "Orbis" (2013 - 2022)
 
@@ -94,17 +94,14 @@ Motivated Web Developer with a Frontend Development Diploma from Yandex Practicu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Barabanov-DE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Notable Projects
-- **[CryptoTracker](https://github.com/Aleksandr-Barabanov-DE/crypto-tracker-API)**: Developed a real-time cryptocurrency tracking application, implementing APIs for dynamic data retrieval.
+- **[Yummy Search]([https://github.com/Aleksandr-Barabanov-DE/crypto-tracker-API](https://github.com/Aleksandr-Barabanov-DE/Recipe-Search-API-))**: A recipe finder app allowing users to search recipes by ingredients, diet, cuisine, and intolerances. Features detailed recipe information and wine pairing suggestions.
+Technologies: React, React Router, GSAP, Spoonacular API
   
 - **[Stellar Burgers](https://github.com/Aleksandr-Barabanov-DE/stellar-burgers)**: Created a fully functional burger ordering application using React and TypeScript to improve type safety and maintainability. This project employed Object-Oriented Programming (OOP) principles to develop reusable components and efficiently manage application state. Implemented a responsive design to ensure optimal user experience across various devices, complemented by smooth animations using GSAP. The modular architecture facilitated improved code readability and maintainability while integrating RESTful APIs for dynamic data handling.
+Technologies: React, TypeScript, Redux, Webpack
 
-- **[Mesto](https://github.com/Aleksandr-Barabanov-DE/mesto-project-ff)**: Developed a dynamic web application for sharing and discovering beautiful photos. Users can upload images, create their own photo cards, and interact with others by liking and commenting on their favorite photos. The application features a clean and intuitive interface for easy navigation.  
-  **Key Features**:
-  - **User Profiles**: Each user has a personal profile to view uploaded photos and manage account information.
-  - **Photo Cards**: Users can create, edit, and delete their photo cards, each displaying an image, title, and description.
-  - **Like and Comment System**: Encourages community interaction through likes and comments on photos.
-  - **Responsive Design**: Ensures a seamless experience across devices, including desktops, tablets, and mobile phones.  
-  **Technologies Used**: HTML5, CSS3 (with Flexbox), JavaScript (with ES6 features), Node.js, Express, and MongoDB for backend and database storage.
+- **[Nutrition Analyzer]([https://github.com/Aleksandr-Barabanov-DE/mesto-project-ff](https://github.com/Aleksandr-Barabanov-DE/Nutrition-Analisys-React)**: A tool for analyzing the nutritional value of meal. Users can input a list of ingredients with quantities to receive detailed information about calories, macronutrients, and micronutrients. This application helps users make informed dietary decisions and track their nutritional intake effectively.
+Technologies: React, Edamam API, LocalStorage, CSS Modules
 
 ## Contacts
 
