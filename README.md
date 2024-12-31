@@ -4,11 +4,11 @@
 <img src="https://github.com/Aleksandr-Barabanov-DE/AboutMe/blob/main/hero-section.jpg?raw=true" alt="Slogan: JS is Everywhere. Coding is a state of mind" width="1200"/>
 <h1>Hi there, I'm <a href="https://barabanov.codes/" target="_blank">Aleksandr Barabanov</a> 👋
  
-## Welcome to my GitHub profile! Explore my projects, contributions, and ongoing development journey as a Frontend Developer.
+## Welcome to my GitHub profile! With experience in collaborating on large-scale web projects alongside multidisciplinary teams, I specialize in building dynamic and scalable frontend applications.
 
 ## About Me
 
-I’m a passionate Web Developer with a professional diploma in Frontend Development from Yandex Practicum and advanced training in JavaScript, API integration, asynchronous programming, and UI/UX design at Can She Code Inc. Currently, I’m enhancing my skills in full-stack development, focusing on React, Redux, and Node.js. My goal is to create efficient, user-centric applications that combine performance and engaging design.
+I am a passionate Web Developer with hands-on experience in large-scale projects and advanced training in modern technologies, including **JavaScript**, **React**, and **TypeScript**. My expertise lies in creating high-performance, user-centric applications, and I continuously enhance my skills by diving deeper into full-stack development and animation technologies.
 
 ## Skills & Technologies
 
@@ -49,18 +49,13 @@ I’m a passionate Web Developer with a professional diploma in Frontend Develop
   <img src="https://img.shields.io/badge/-YAGNI-4682B4?style=for-the-badge&logo=devicon&logoColor=white" alt="YAGNI"/>
 </p>
 
-### Goals
-
-- **Short-term Goals**:
-  - Become proficient in full-stack development with React and Node.js.
-  - Deepen skills in **TypeScript** to build more scalable and maintainable applications.
-  - Complete a Redux course to improve complex state management skills.
-  - Contribute to open-source projects related to **UI/UX design** and **JavaScript frameworks**.
-
-- **Long-term Goals**:
-  - Deepen expertise in **UI/UX animations** using **GSAP** and **Figma** to create more engaging user experiences.
-  - Work on larger commercial projects that involve **API integration**, **real-time data processing**, and **high scalability**.
-  - Continue contributing to **open-source** projects and expanding my network in the developer community.
+### Goals  
+- **Short-term Goals**:  
+  - Master **Redux** and complex state management.  
+  - Contribute to open-source projects in **JavaScript frameworks**.  
+- **Long-term Goals**:  
+  - Build expertise in **UI/UX animations** with GSAP.  
+  - Work on commercial projects with **real-time data processing** and high scalability. 
 
 ## Experience
 
@@ -108,18 +103,15 @@ Technologies: React, TypeScript, Redux, Webpack
 Technologies: React, Edamam API, LocalStorage, CSS Modules
 
 ## Contacts
-
+Feel free to connect with me:  
 <div>
-  <a href="https://www.linkedin.com/in/aleksandr-barabanov/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/aleksandr-barabanov/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a> 
   <a href="mailto:barabanov.codes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-notifcenter">
-    <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed"/>
-  </a>
-  <a href="https://www.codewars.com/users/Aleksandr-Barabanov">
+  </a> 
+  <a href="https://www.codewars.com/users/Aleksandr-Barabanov" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/>
   </a>
 </div>
