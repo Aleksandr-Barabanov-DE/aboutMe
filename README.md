@@ -65,6 +65,7 @@ I’m a passionate Web Developer with a professional diploma in Frontend Develop
 ## Experience
 
 ### Frontend Developer, Digital Agency (2022 - Present)
+- Collaborated on a large-scale web project as part of a 13-person team, including backend and frontend developers, and testers.
 - Successfully developed and launched responsive websites using **JavaScript**, **React**, **TypeScript**, and **Webpack** to ensure high performance and user experience.
 - Built complex user interfaces with **React** and **Redux** to manage dynamic data and ensure smooth state transitions.
 - Enhanced user interaction with **GSAP** animations, leading to a 20% increase in user engagement.
@@ -72,6 +73,8 @@ I’m a passionate Web Developer with a professional diploma in Frontend Develop
 - Optimized build processes with **Webpack**, reducing **page load time by 30%** and **bundle size by 25%**.
 - Optimized API interactions with **asynchronous JavaScript**, reducing **API response delays by 15%**.
 - Enhanced functionality with custom drag-and-drop features and interactive date range pickers.
+- Developed drag-and-drop functionality and image upload features with React DnD.
+- Implemented data visualization components and date range pickers with intelligent validation.
 
 ### Web Developer and SEO Specialist, LLC "Orbis" (2013 - 2022)
 
